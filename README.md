@@ -14,11 +14,11 @@ C5 = 1.8003
 
 ![](https://github.com/FelipeFFerreira/MAC-FUC-SEN/blob/master/imgs/simulacao_resultado_parte_3_2.png "")
 
-![](https://https://github.com/FelipeFFerreira/MAC-FUC-SEN/tree/master/imgs/sen.png "")
+![](https://github.com/FelipeFFerreira/MAC-FUC-SEN/blob/master/imgs/sen.jpg "")
 
-![](https://https://github.com/FelipeFFerreira/MAC-FUC-SEN/tree/master/imgs/resultado_simulacao_3_parte_x_0_41.png "")
+![](https://github.com/FelipeFFerreira/MAC-FUC-SEN/blob/master/imgs/resultado_simulacao_3_parte_x_0_5.png "")
 
-![](https://https://github.com/FelipeFFerreira/MAC-FUC-SEN/tree/master/imgs/resultado_simulacao_3_parte_x_0_5.png "")
+![](https://github.com/FelipeFFerreira/MAC-FUC-SEN/blob/master/imgs/resultado_simulacao_3_parte_x_0_41.png "")
 
 
 
