@@ -12,7 +12,7 @@ C3 = -5.325192
 C4 = 0.544677
 C5 = 1.8003
 
-![](https://https://github.com/FelipeFFerreira/MAC-FUC-SEN/tree/master/imgs/simulacao_resultado_parte_3_2.png "")
+![](https://github.com/FelipeFFerreira/MAC-FUC-SEN/blob/master/imgs/simulacao_resultado_parte_3_2.png "")
 
 ![](https://https://github.com/FelipeFFerreira/MAC-FUC-SEN/tree/master/imgs/sen.png "")
 
